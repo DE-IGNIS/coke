@@ -28,8 +28,6 @@ A modern, responsive landing page for Pepsi built with HTML, CSS, and JavaScript
 | HTML5 | Structure and content |
 | CSS3 | Styling and animations |
 | JavaScript | Interactivity and functionality |
-| Flexbox/Grid | Modern layout techniques |
-| Responsive Design | Cross-device compatibility |
 
 ## 🎨 Design Features
 
