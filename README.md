@@ -39,11 +39,13 @@ A modern, responsive landing page for Pepsi built with HTML, CSS, and JavaScript
 | Animations | Smooth transitions and hover effects |
 | Components | Reusable UI elements |
 
-## 📄 License
+## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
+```
+MIT License · Copyright (c) 2026 DARSYN
+```
 
 <div align="center">
   <sub>Built with ❤️ by Darsyn</sub>
